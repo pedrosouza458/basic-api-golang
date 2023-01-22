@@ -1,0 +1,8 @@
+[api]
+port = "9437"
+
+[database]
+host = "localhost"
+user = "root"
+pass = ""
+name = "bd-todo"
